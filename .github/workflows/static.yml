@@ -21,3 +21,5 @@ jobs:
             sudo systemctl start nginx
             sudo cp -r Static-Site/* /var/www/html
             sudo systemctl restart nginx
+
+            #drg
